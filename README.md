@@ -28,4 +28,5 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 7.18更新 添加echarts图表例子，添加element ui。 
 # 7.25更新 添加下载，头像上传功能，下载支持各种格式.
